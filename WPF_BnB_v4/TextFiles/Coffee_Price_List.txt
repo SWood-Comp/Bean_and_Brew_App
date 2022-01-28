@@ -1,0 +1,10 @@
+Flat White,2.50
+Flat Black,2.50
+Latte,4.00
+Cappucino,5.00
+Americano,3.00
+Espresso,3.50
+Mocha,5.50
+Hot Chocolate,5.50
+Iced Latte,5.50
+Chai Latte,5.00

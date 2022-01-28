@@ -1,0 +1,10 @@
+﻿<Application x:Class="WPF_Tester_App.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPF_Tester_App"
+             StartupUri="BookTable.xaml">
+
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
